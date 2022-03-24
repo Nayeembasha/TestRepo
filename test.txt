@@ -1,2 +1,4 @@
 Name : Manoj
 Email id : Manoj@xyz.com
+Number : 9999999999
+Place : Bangalore
